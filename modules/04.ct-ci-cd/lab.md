@@ -15,7 +15,7 @@ Continuous Testing, Continuous Integration & Continuous Delivery (Deployment) (C
 
 Installation instructions:
 
-- **Windows:** https://redislabs.com/ebook/appendix-a/a-3-installing-on-windows/a-3-2-installing-redis-on-window/
+- **Windows:** https://riptutorial.com/redis/example/29962/installing-and-running-redis-server-on-windows
 - **MacOS:** `brew install redis` or https://redis.io/topics/quickstart
 - **Linux or MacOS:** https://redis.io/topics/quickstart
 
